@@ -22,7 +22,7 @@ $ ai install ext.murattal
 ```
 
 
-# Build a certificate
+# Download a murattal audio
 - For AI users, sample commands:
 
 ```
